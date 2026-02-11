@@ -19,11 +19,11 @@ DEVICE REQUIREMENTS & IMPORTANT DOWNLOADS
 -----------------------------------------
 1. Nvidia Driver 590+
 2. GPU capable of DLSS
-3. You may need to install [cuda_12.4.0_551.61](https://developer.nvidia.com/cuda-12-4-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local);
+3. You may need to install *probably not* [cuda_12.4.0_551.61](https://developer.nvidia.com/cuda-12-4-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local);
 
 
 
-Saftey & Acknowledgement
+Safety & Acknowledgement
 -----------------------------------------
 1. This is an unstable branch of Blender; I am not responsible for data loss, crashes, etc.
 2. All files from Nvidia are NOT included; refer to earlier in the doc for more information.
