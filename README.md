@@ -27,6 +27,5 @@ Saftey & Acknowledgement
 -----------------------------------------
 1. This is an unstable branch of Blender; I am not responsible for data loss, crashes, etc.
 2. All files from Nvidia are NOT included; refer to earlier in the doc for more information.
-3. As always, be careful when downloading third-party builds; however,  
-[here](https://www.virustotal.com/gui/file/a6982ef8deaf3d246bbc33754e34bb3a0966a5b1e23b68017fef33ddf566fefa?nocache=1) is the VirusTotal for this build.
+3. As always, be careful when downloading third-party builds; however, [here](https://www.virustotal.com/gui/file/a6982ef8deaf3d246bbc33754e34bb3a0966a5b1e23b68017fef33ddf566fefa?nocache=1) is the VirusTotal for this build.
 
